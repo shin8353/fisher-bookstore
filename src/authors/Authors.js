@@ -1,12 +1,12 @@
 import React from "react";
-import "./Books.css";
+import "./Authors.css";
 
 export default function Home() {
     return (
         <div className="Home">
             <div className="lander">
-                <h1>Books</h1>
-                <p>All the books</p>
+                <h1>Authors</h1>
+                <p>All the authors</p>
             </div>
         </div>
     );
